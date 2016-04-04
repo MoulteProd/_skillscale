@@ -30,7 +30,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
 html {
   height: 100%;
 }
@@ -40,6 +40,9 @@ body {
   align-items: center;
   justify-content: center;
   height: 100%;
+  a{
+    color:#FFF;
+  }
 }
 
 #app {
